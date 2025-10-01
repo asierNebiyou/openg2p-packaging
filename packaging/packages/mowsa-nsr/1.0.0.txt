@@ -1,4 +1,4 @@
-#!openg2p/openg2p-social-registry-mowsa:1.0.0
+#!openg2p/openg2p-mowsa-nsr:1.0.0
 #!17.0-20250807
 
 # OCA dependencies
